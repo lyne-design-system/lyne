@@ -29,7 +29,7 @@ Throughout the [Lyne](#lyne) Design System we use the term *Component Library* a
 - Systemic thinking about design (Miriam Suzanne)
 - A common, shared language
 - A flexible, modular and adjustable system without vendor lock-in
-- The Single Source of Truth
+- Our Single Source of Truth
 
 Check [Lyne](#lyne) what a *Design System* means for us specifically and how we define and describe a *Design System* in more depth.
 
