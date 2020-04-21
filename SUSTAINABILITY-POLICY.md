@@ -4,7 +4,7 @@ Sustainability is increasingly becoming a key issue for businesses and society i
 current industrial, economic and social systems are storing up problems for the future. Sustainability is not about 
 moving backwards, but about looking forward to new, better ways of doing things.
 
-The Lyne Design System core team believes in the triple bottom line concept of sustainability, which focuses on three 
+The [Lyne Design System Core Team](/docs/TERMINOLOGY.md#design-system-core-team) believes in the triple bottom line concept of sustainability, which focuses on three 
 key areas:
 
 - Environmental: reducing environmental damage to levels that can naturally be absorbed by nature
@@ -13,7 +13,7 @@ key areas:
 
 ### Lyne Design System -  Sustainability Policy
 
-In the Lyne Design System core team we aim to do our best to work towards sustainability. We’re not perfect, but 
+In the Lyne Design System Core Team we aim to do our best to work towards sustainability. We’re not perfect, but 
 it’s something we take very seriously. We have a range of environmental, social and financial strategies that 
 help us to reduce our negative impact and give something positive back to the world.
 
