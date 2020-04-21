@@ -39,7 +39,7 @@ Check the [docs](docs/README.md) directory for our documentation and resources w
 | [`lyne-components`](https://github.com/lyne-design-system/lyne-components)  | 🧱 Lyne building blocks — standard compliant Web Components                                                                                                                                              |
 | [`lyne-design-tokens`](https://github.com/lyne-design-system/lyne-design-tokens) | 💄 Lyne design primitives — distributed via our Design (Token) API
 | [`lyne-documentation`](https://github.com/lyne-design-system/lyne-documentation) | 📚 Documentation platform for Lyne
-| [`lyne-getting-started`](https://github.com/lyne-design-system/lyne-getting-started) | 🧠 Integration examples for Lyne Components within React, Angular, Vue, Svelte and Plain JavaScript
+| [`lyne-getting-started`](https://github.com/lyne-design-system/lyne-getting-started) | 🕹️ Integration examples for Lyne Components within React, Angular, Vue, Svelte and Plain JavaScript
 
 ## 🙌 Contributing
 See our [contributing guide](/.github/CONTRIBUTING.md) and check also our [code of conduct](/.github/CODE_OF_CONDUCT.md) 👀.
