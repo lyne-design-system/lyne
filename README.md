@@ -2,7 +2,7 @@
   Lyne Design System
 </h1>
 
-> Lyne is an open source Design System built by SBB–CFF-FFS. We provide a shared vocabulary, working code, design decisions,
+> *Lyne* is an open source Design System built by SBB–CFF-FFS. We provide a shared vocabulary, working code, design decisions,
 > resources and human interface guidelines which define our shared, common language.
 
 <p align="center">
