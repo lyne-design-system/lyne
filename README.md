@@ -22,5 +22,5 @@ To fulfill our [Vision](./docs/VISION.md), we are building and maintaining [Lyne
 
 | Projects                                  | Description                                                                                                                                                                             
 | --------------------------------------------- | ----------------------------------------------------------- |
-| [`lyne-components`](https://github.com/lyne-design-system/lyne-components)  | Building blocks of Lyne Design System — standard compliant Web Components                                                                                                                                              |
-| [`lyne-design-tokens`](https://github.com/lyne-design-system/lyne-design-tokens) | Design primitives of Lyne Design System
+| [`lyne-components`](https://github.com/lyne-design-system/lyne-components)  | The building blocks of Lyne — standard compliant Web Components                                                                                                                                              |
+| [`lyne-design-tokens`](https://github.com/lyne-design-system/lyne-design-tokens) | Lyne design primitives which get distributed via our Design (Token) API
