@@ -10,7 +10,7 @@ assignees: ''
 
 ## Title line template: [Title]: Brief description
 
-If this is a specific bug concerning one of [our projects](https://github.com/lyne-design-system/lyne/README.md#our-projects) please place the bug report there and have a look if it has already been reported/solved.
+If this is a specific bug concerning one of [our projects](https://github.com/lyne-design-system/lyne#our-projects) please place the bug report there and have a look if it has already been reported/solved.
 
 If not please help us out by filling out a couple of details below!
 

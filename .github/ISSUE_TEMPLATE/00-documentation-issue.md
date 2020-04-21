@@ -14,7 +14,7 @@ If you miss something or you have not yet found an answer to your question the [
 
 Maybe also have a quick look at our [documentation issues](https://github.com/lyne-design-system/lyne/issues?q=label%3A%22type%3A+docs+%F0%9F%93%96%22+) if your question has been asked/raised before or even might have been solved. 
 
-If this is a specific issue concerning one of [our projects](https://github.com/lyne-design-system/lyne/README.md#our-projects) please place the issue there and have a look if it has already been solved.
+If this is a specific issue concerning one of [our projects](https://github.com/lyne-design-system/lyne#our-projects) please place the issue there and have a look if it has already been solved.
 
 If those resources do not help or if something needs to be optimized/incomplete, is wrong or outdated in our documentation, help us out by filling out some details below!
 

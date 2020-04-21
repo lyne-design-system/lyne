@@ -10,7 +10,7 @@ assignees: ''
 
 ## Title line template: [Title]: Brief description
 
-If this is a specific issue concerning one of [our projects](https://github.com/lyne-design-system/lyne/README.md#our-projects) please place the issue there and have a look if it has already been solved.
+If this is a specific issue concerning one of [our projects](https://github.com/lyne-design-system/lyne#our-projects) please place the issue there and have a look if it has already been solved.
 
 If not please help us out by filling out a couple of details below!
 

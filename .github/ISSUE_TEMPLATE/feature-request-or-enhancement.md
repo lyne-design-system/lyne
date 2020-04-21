@@ -12,7 +12,7 @@ Hi there! 👋🏻 We hope everything is fine using our projects from the Lyne D
 
 You can find the Lyne Design System documentation [here](https://github.com/lyne-design-system/lyne/docs). Also have a look at our [issues](https://github.com/lyne-design-system/lyne/issues) if your suggestion/enhancement has been proposed before.
 
-If this is a specific feature request or enhancement concerning one of [our projects](https://github.com/lyne-design-system/lyne/README.md#our-projects) please raise the request there and have a look if it has already been raised. 
+If this is a specific feature request or enhancement concerning one of [our projects](https://github.com/lyne-design-system/lyne#our-projects) please raise the request there and have a look if it has already been raised. 
 
 If these resources do not work out, help us out by filling out a couple of
 details below!
