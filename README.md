@@ -42,7 +42,7 @@ Check the [docs](docs/README.md) directory for our documentation and resources w
 | [`lyne-getting-started`](https://github.com/lyne-design-system/lyne-getting-started) | 🕹️ Integration examples for Lyne Components within React, Angular, Vue, Svelte and Plain JavaScript
 
 ## 🙌 Contributing
-See our [contributing guide](/.github/CONTRIBUTING.md) and check also our [code of conduct](/.github/CODE_OF_CONDUCT.md) 👀.
+See our [contributing guide](CONTRIBUTING.md) and check also our [code of conduct](CODE_OF_CONDUCT.md) 👀.
 
 ## 📝 License
 This software is published by SBB-CFF-FFS under the [MIT](/LICENSE) licence and unsupported unless otherwise clearly stated. Use at your own risk.
