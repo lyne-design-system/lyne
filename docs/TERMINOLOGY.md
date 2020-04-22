@@ -2,7 +2,7 @@
 
 To fulfill our [Vision](./VISION.md), we are building and maintaining [Lyne](#lyne), our [Design System](#design-system), which is and acts as our common language —  our [Single Source of Truth](#single-source-of-truth). For this purpose we use [Design Tokens](#design-token) as our design abstractions. Those Design Tokens are consumed by [Lyne Components](#lyne-components) via our [Design (Token) API](#design-token-api) and are integrated within our documentation.
 
-Lyne Design Tokens and Lyne Components are available for developer and designer.
+Lyne Design Tokens and Lyne Components are available for developer and designer(coming).
 
 ## A-Z
 This page defines the terminology — our common vocabulary — which is used throughout [Lyne Design System](#lyne). We try to list just the necessary terms to get you started and to help you to have better understanding of [Lyne](#lyne). If you miss something important please let us know and open a new [documentation issue](https://github.com/lyne-design-system/lyne-components/issues/new?template=00-documentation-issue.md).
