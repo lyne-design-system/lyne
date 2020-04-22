@@ -25,6 +25,8 @@
 ## 🎯 Our aim
 To fulfill our [Vision](./docs/VISION.md), we are building and maintaining [Lyne](./docs/TERMINOLOGY.md#lyne), our [Design System](./docs/TERMINOLOGY.md#design-system), which is and acts as our common language —  our [Single Source of Truth](./docs/TERMINOLOGY.md#single-source-of-truth). For this purpose we use [Design Tokens](./docs/TERMINOLOGY.md#design-token) as our design abstractions. Those Design Tokens are consumed by [Lyne Components](./docs/TERMINOLOGY.md#lyne-components) via our [Design (Token) API](./docs/TERMINOLOGY.md#design-token-api) and are integrated within our documentation.
 
+Lyne Design Tokens and Lyne Components are available for developer and designer(coming).
+
 ## 🚀 Getting started
 
 First things first: This repository acts as the entry point for everything related to the *Lyne Design System* and is it's common ground — it's common denominator. See [our projects](#our-projects) below for more details and their specific implementations.
