@@ -10,19 +10,26 @@ assignees: ''
 
 Hi there! 👋🏾 It looks like you were having an issue with our documentation. 
 
-If you miss something or you have not yet found an answer to your question the [Lyne  documentation](https://github.com/lyne-design-system/lyne/docs) might hold it. 
+If you miss something or you have not yet found an answer to your question the [Lyne documentation](https://github.com/lyne-design-system/lyne/docs) might hold it. 
 
 Maybe also have a quick look at our [documentation issues](https://github.com/lyne-design-system/lyne/issues?q=label%3A%22type%3A+docs+%F0%9F%93%96%22+) if your question has been asked/raised before or even might have been solved. 
 
 If this is a specific issue concerning one of [our projects](https://github.com/lyne-design-system/lyne#our-projects) please place the issue there and have a look if it has already been solved.
 
-If those resources do not help or if something needs to be optimized/incomplete, is wrong or outdated in our documentation, help us out by filling out some details below!
+If those resources do not help or if something needs to be optimized, is incomplete, is wrong or outdated in our documentation, help us out by filling out some details below!
 
 Feel free to remove the sections that are not relevant.
 
 Thanks in advance!
 
 -->
+
+## Preflight Checklist
+<!-- Please ensure you've completed the following steps by replacing [ ] with [x]-->
+
+* [ ] I have read the [Contributing Guidelines](https://github.com/lyne-design-system/lyne/blob/master/CONTRIBUTING.md) for this project.
+* [ ] I agree to follow the [Code of Conduct](https://github.com/lyne-design-system/lyne/blob/master/CODE_OF_CONDUCT.md) that this project adheres to.
+* [ ] I have searched the issue tracker for an issue that matches the one I want to file, without success.
 
 ## To which package(s) is this related?
 
