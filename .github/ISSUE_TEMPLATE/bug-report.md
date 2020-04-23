@@ -16,6 +16,14 @@ If not please help us out by filling out a couple of details below!
 
 -->
 
+## Preflight Checklist
+<!-- Please ensure you've completed the following steps by replacing [ ] with [x]-->
+
+* [ ] I have read the [Contributing Guidelines](https://github.com/lyne-design-system/lyne/blob/master/CONTRIBUTING.md) for this project.
+* [ ] I agree to follow the [Code of Conduct](https://github.com/lyne-design-system/lyne/blob/master/CODE_OF_CONDUCT.md) that this project adheres to.
+* [ ] I have searched the issue tracker for an issue that matches the one I want to file, without success.
+
+
 ## Which package(s) are you using?
 
 <!--
