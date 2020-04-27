@@ -69,7 +69,7 @@ For a more in depth and **technical** understanding of *Lyne* check out our [rep
 *Lyne* are the building blocks of the [Lyne Design System](#lyne) and are based on standard compliant [Web Components](#web-components) compiled by [StencilJS](#stenciljs) and browsable through [Storybook](#storybook). In code context *Lyne Components* are always referred as `lyne-components`.
 
 ### Netlify
-*[Netlify](https://www.netlify.com/)* is an all-in-one platform for automating modern web projects. We use it as a static hosting platform and deploy our [Storybook](#storybook) build of [Lyne Components](#lyne-components) and our [deployments page](https://lyne-components-deployments.netlify.com)(list of all deployments) to *Netlify*. Since Lyne Components are an open source project Netlify services are free of charge.
+*[Netlify](https://www.netlify.com/)* is an all-in-one platform for automating modern web projects. We use it as a static hosting platform and deploy our [Storybook](#storybook) build of [Lyne Components](#lyne-components) and our [Lyne Documentation](#lyne-documentation) to *Netlify*. Since Lyne Components are an open source project Netlify services are free of charge.
 
 ### npm
 *[npm](https://www.npmjs.com/)* stands for node package manager and is the world's largest software registry. The registry consists of shared code packages. [Lyne Components](#lyne-components) are published through and shared on *npm*. The latest build of Lyne Components can be found on *npm* as the [lyne-test](https://www.npmjs.com/package/lyne-test) package. For further instructions how to consume Lyne Components via *npm* read [DEVELOP.md](./DEVELOP.md). 
