@@ -66,7 +66,7 @@ Read our [VISION.md](./VISION.md) for a more detailed, **non-technical** underst
 For a more in depth and **technical** understanding of *Lyne* check out our [repository](/README.md) and our [documentation](./README.md).
 
 ### Lyne Components
-*Lyne* are the building blocks of the [Lyne Design System](#lyne) and are based on standard compliant [Web Components](#web-components) compiled by [StencilJS](#stenciljs) and browsable through [Storybook](#storybook). In code context *Lyne Components* are always referred as `lyne-components`.
+*Lyne Components* are the building blocks of the [Lyne Design System](#lyne) and are based on standard compliant [Web Components](#web-components) compiled by [StencilJS](#stenciljs) and browsable through [Storybook](#storybook). In code context *Lyne Components* are always referred as `lyne-components`.
 
 ### Netlify
 *[Netlify](https://www.netlify.com/)* is an all-in-one platform for automating modern web projects. We use it as a static hosting platform and deploy our [Storybook](#storybook) build of [Lyne Components](#lyne-components) and our [Lyne Documentation](#lyne-documentation) to *Netlify*. Since Lyne Components are an open source project Netlify services are free of charge.
