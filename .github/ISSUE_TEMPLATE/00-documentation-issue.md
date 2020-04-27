@@ -1,5 +1,5 @@
 ---
-name: Documentation 📖
+name: Documentation Issue 📖
 about: Report missing, optimizable, incomplete, wrong or outdated documentation
 title: ''
 labels: 'type: docs 📖'
