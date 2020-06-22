@@ -20,13 +20,13 @@ The *[Lyne Design System](./TERMINOLOGY.md#lyne)* is based on a intuitive, uniqu
 The *[Lyne Design System](./TERMINOLOGY.md#lyne)* not only enables an optimized collaboration and integration workflow between the [Design System Core Team](./TERMINOLOGY.md#design-system-core-team) and consumers of *[Lyne Design System](./TERMINOLOGY.md#lyne)* but also accelerates the creation and development process (time to market) in a sustainable, maintainable, and long term committed fashion.
 
 ## *Lyne*'s advantages and the resulting (→) chances
-- One language / terminology →
+- One language/terminology →
     - Better understanding
     - Clearer communication
     - Cross-company design language
     - Reducing the knowledge gap
     - Iterating faster
-- Single source of truth (SSoT) →
+- Single Source of Truth (SSoT) →
     - Central knowledge collection 
     - Easy on-boarding
     - Empowerment
@@ -34,9 +34,9 @@ The *[Lyne Design System](./TERMINOLOGY.md#lyne)* not only enables an optimized 
 - Efficient & optimized collaboration → 
     - Team member happiness (PO, UX, DevOps, Frontend, Backend)
     - Developer Experience of (component) consumers
-    - Clear feedback / Review mechanisms
+    - Clear feedback/Review mechanisms
     - Iterating faster
-- Make things easier →
+- Makes things easier →
     - Team member happiness (PO, UX, DevOps, Frontend, Backend)
 - Consolidation →
     - Optimized patterns
@@ -93,7 +93,7 @@ The *[Lyne Design System](./TERMINOLOGY.md#lyne)* not only enables an optimized 
 ## Risks
 General risks of a Design System which we always need to face and be aware of.
 
-- Single point of failure
+- Single Point of Failure (SPoF)
 - Restrains designers creativity
 - Governance difficulties
     - Design System rejection/denial
