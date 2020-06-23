@@ -58,7 +58,7 @@ The *[Lyne Design System](./TERMINOLOGY.md#lyne)* not only enables an optimized 
 - Well tested →
     - Better QA
 - Accessible →
-    - Built in a11y
+    - Built-in accessibility on module level
 - Measurable →
     - Data-driven decisions
 - Long term focus →
