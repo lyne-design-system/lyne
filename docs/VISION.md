@@ -14,7 +14,7 @@ The reference and building blocks to create consistent experiences across SBB di
 The *[Lyne Design System](./TERMINOLOGY.md#lyne)* is a holistic approach towards a consistent, maintainable, cross-company design language for all SBB digital products/services for a better common understanding between stakeholders, designers and developers.
 
 ## What *Lyne* consists of
-The *[Lyne Design System](./TERMINOLOGY.md#lyne)* is based on a intuitive, unique — the [Single Source of Truth](./TERMINOLOGY.md#single-source-of-truth) — referential resource, including shared and well-documented guidelines, [terminologies](./TERMINOLOGY.md), processes and vocabulary ([Design Tokens](./TERMINOLOGY.md#design-token)), as well as centralized, vendor and framework agnostic basic building blocks ([Lyne Components](./TERMINOLOGY.md#lyne-components)).
+The *[Lyne Design System](./TERMINOLOGY.md#lyne)* is based on an intuitive, unique — the [Single Source of Truth](./TERMINOLOGY.md#single-source-of-truth) — referential resource, including shared and well-documented guidelines, [terminologies](./TERMINOLOGY.md), processes and vocabulary ([Design Tokens](./TERMINOLOGY.md#design-token)), as well as centralized, vendor and framework agnostic basic building blocks ([Lyne Components](./TERMINOLOGY.md#lyne-components)).
 
 ## What *Lyne* does
 The *[Lyne Design System](./TERMINOLOGY.md#lyne)* not only enables an optimized collaboration and integration workflow between the [Design System Core Team](./TERMINOLOGY.md#design-system-core-team) and consumers of *[Lyne Design System](./TERMINOLOGY.md#lyne)* but also accelerates the creation and development process (time to market) in a sustainable, maintainable, and long term committed fashion.
