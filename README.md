@@ -36,12 +36,13 @@ Check the [docs](docs/README.md) directory for our documentation and resources w
 
 ### Our projects
 
-| Project/repository                                     | Purpose                                                                                                                                                                             
-| --------------------------------------------- | ----------------------------------------------------------- |
-| [`lyne-components`](https://github.com/lyne-design-system/lyne-components)  | 🧱 Lyne building blocks — standard compliant Web Components                                                                                                                                              |
-| [`lyne-design-tokens`](https://github.com/lyne-design-system/lyne-design-tokens) | 💄 Lyne design primitives — distributed via our Design (Token) API
-| [`lyne-documentation`](https://github.com/lyne-design-system/lyne-documentation) | 📚 Documentation platform for Lyne
-| [`lyne-getting-started`](https://github.com/lyne-design-system/lyne-getting-started) | 🕹️ Integration examples for Lyne Components within React, Angular, Vue, Svelte and Plain JavaScript
+| Project/repository | Purpose | Version                                                                                                                                                                            
+| --------| ------------------| ----
+| [`lyne-components`](https://github.com/lyne-design-system/lyne-components) | 🧱 Lyne building blocks — standard compliant Web Components | ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-components?label=release)                                                                                                                 
+| [`lyne-design-tokens`](https://github.com/lyne-design-system/lyne-design-tokens) | 💄 Lyne design primitives — distributed via our Design (Token) API | ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-design-tokens?label=release)
+| [`lyne-icons`](https://github.com/lyne-design-system/lyne-icons) | 🎎 Lyne Icons — Lyne's iconography used across the system | ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-icons?label=release)
+| [`lyne-documentation`](https://github.com/lyne-design-system/lyne-documentation) | 📚 Documentation platform for Lyne | ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-documentation?label=release)
+| [`lyne-getting-started`](https://github.com/lyne-design-system/lyne-getting-started) | 🕹️ Integration examples for Lyne Components within React, Angular, Vue, Svelte and Plain JavaScript | 
 
 ## 🙌 Contributing
 See our [contributing guide](CONTRIBUTING.md) and check also our [code of conduct](CODE_OF_CONDUCT.md) 👀.
