@@ -17,7 +17,7 @@
 <br>
 
 ## ⚠️ Notice
-***Lyne Design System* is 🧪 experimental at the moment — with enthusiasm.<br>Don't use the project until it has left infancy.**.
+***Lyne Design System* is 🧪 experimental at the moment — with enthusiasm.<br>Don't use the project until it has left infancy.**
 <br>
 <br>
 <br>
