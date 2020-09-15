@@ -91,7 +91,7 @@ The *[Lyne Design System](./TERMINOLOGY.md#lyne)* not only enables an optimized 
 - Commitment
 
 ## Risks
-General risks of a Design System which we always need to face and be aware of.
+General risks of a Design System which we always need to face and be aware of:
 
 - Single Point of Failure (SPoF)
 - Restrains designers creativity
