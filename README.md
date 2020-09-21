@@ -28,11 +28,12 @@ To fulfill our [Vision](./docs/VISION.md), we are building and maintaining [Lyne
 Lyne Design Tokens and Lyne Components are available for developer and designer(coming).
 
 ## 🚀 Getting started
-
 First things first: This repository acts as the entry point for everything related to the *Lyne Design System* and is it's common ground — it's common denominator. See [our projects](#our-projects) below for more details and their specific implementations.
 
 ### Documentation
-Check the [docs](docs/README.md) directory for our documentation and resources which we will continuously enhance.
+Check the [docs](docs/README.md) directory for our documentation and resources which we will continuously enhance
+
+Besides our markdown-only documentation on GitHub – mentioned above – we host the [Lyne documentation platform](https://lyne-documentation.netlify.app/) to provide a holistic but less technical understanding of Lyne.
 
 ### Our projects
 
