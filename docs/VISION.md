@@ -1,6 +1,6 @@
 # Lyne Design System — Vision
 
-## tl;dr
+## tl;dr – Lyne in a few words
 The reference and building blocks to create consistent experiences across SBB digital products in a sustainable fashion with long term commitment.
 
 - [What *Lyne* is and why we need it](#what-lyne-is-and-why-we-need-it)
