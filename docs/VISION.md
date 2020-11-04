@@ -94,7 +94,7 @@ The *[Lyne Design System](./TERMINOLOGY.md#lyne)* not only enables an optimized 
 General risks of a Design System which we always need to face and be aware of:
 
 - Single Point of Failure (SPoF)
-- Restrains designers creativity
+- Fear of harming the designers creativity
 - Governance difficulties
     - Design System rejection/denial
     - Missing adoption
