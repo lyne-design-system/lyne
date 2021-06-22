@@ -39,11 +39,16 @@ Besides our markdown-only documentation on GitHub – mentioned above – we hos
 
 | Project/repository | Purpose | Version                                                                                                                                                                            
 | --------| ------------------| ----
-| [`lyne-components`](https://github.com/lyne-design-system/lyne-components) | 🧱 Lyne building blocks — standard compliant Web Components | ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-components?label=release)                                                                                                                 
+| [`lyne-components`](https://github.com/lyne-design-system/lyne-components) | 🧱 Lyne building blocks — standard compliant Web Components | ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-components?label=release)
 | [`lyne-design-tokens`](https://github.com/lyne-design-system/lyne-design-tokens) | 💄 Lyne design primitives — design decisions stored as Design Tokens and used across the system | ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-design-tokens?label=release)
 | [`lyne-icons`](https://github.com/lyne-design-system/lyne-icons) | 🎎 Lyne iconography - icons used across the system | ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-icons?label=release)
 | [`lyne-documentation`](https://github.com/lyne-design-system/lyne-documentation) | 📚 Documentation platform for Lyne | ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-documentation?label=release)
-| [`lyne-getting-started`](https://github.com/lyne-design-system/lyne-getting-started) | 🕹️ Integration examples for Lyne Components within React, Angular, Vue, Svelte and Plain JavaScript | 
+|[`lyne-figma-listener`](https://github.com/lyne-design-system/lyne-figma-listener) |Server listening to webhooks from Figma|![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-figma-listener?label=release)
+|[`lyne-helper-figma-api`](https://github.com/lyne-design-system/lyne-helper-figma-api) |Helpers to simplify requests against the Figma API|![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-helper-figma-api?label=release)
+|[`lyne-helper-eslint-config`](https://github.com/lyne-design-system/lyne-helper-eslint-config) |ESLint Configuration for all Lyne Repos|![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-helper-eslint-config?label=release)
+|[`lyne-helper-trigger-travis`](https://github.com/lyne-design-system/lyne-helper-trigger-travis) |Helper to trigger a build on TravisCI|![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-helper-trigger-travis?label=release)
+| [`lyne-getting-started`](https://github.com/lyne-design-system/lyne-getting-started) | 🕹️ Integration examples for Lyne Components within React, Angular, Vue, Svelte and Plain JavaScript |(no versions)
+|[`lyne-hydration-playground`](https://github.com/lyne-design-system/lyne-hydration-playground) |Repo to play around with hydration of Lyne Components|(no versions)
 
 ## 🙌 Contributing
 See our [contributing guide](CONTRIBUTING.md) and check also our [code of conduct](CODE_OF_CONDUCT.md) 👀.
