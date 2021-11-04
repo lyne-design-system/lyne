@@ -44,7 +44,7 @@ Besides our markdown-only documentation on GitHub – mentioned above – we hos
 | [`lyne-icons`](https://github.com/lyne-design-system/lyne-icons) | 🎎 Lyne iconography - icons used across the system | ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-icons?label=release)
 | [`lyne-documentation`](https://github.com/lyne-design-system/lyne-documentation) | 📚 Documentation platform for Lyne | ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-documentation?label=release)
 |<br/><br/>*Integration and application repositories*||
-| [`lyne-getting-started`](https://github.com/lyne-design-system/lyne-getting-started) | 🕹️ Integration examples for Lyne Components within client side rendered (CSR) React, Angular, Vue, Svelte and Plain JavaScript, but also server side rendered (SSR) 11ty|(no versions)
+| [`lyne-getting-started`](https://github.com/lyne-design-system/lyne-getting-started) | 🕹️ Integration examples for Lyne Components within client side rendered (CSR) React, Angular, Vue, Svelte and Plain JavaScript, but also server side rendered (SSR) with 11ty|(no versions)
 |[`lyne-components-demo`](https://github.com/lyne-design-system/lyne-components-demo) |Showcase of how Lyne components could be used to create a fully fledged website|![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-components-demo?label=release)
 |<br/><br/>*Helper and behind the curtain repositories*||
 |[`lyne-figma-listener`](https://github.com/lyne-design-system/lyne-figma-listener) |Server listening to webhooks from Figma|![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-figma-listener?label=release)
