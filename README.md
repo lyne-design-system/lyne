@@ -43,11 +43,11 @@ Besides our markdown-only documentation on GitHub – mentioned above – we hos
 | [`lyne-design-tokens`](https://github.com/lyne-design-system/lyne-design-tokens) | 💄 Lyne design primitives — design decisions stored as Design Tokens and used across the system | ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-design-tokens?label=release)
 | [`lyne-icons`](https://github.com/lyne-design-system/lyne-icons) | 🎎 Lyne iconography - icons used across the system | ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-icons?label=release)
 | [`lyne-documentation`](https://github.com/lyne-design-system/lyne-documentation) | 📚 Documentation platform for Lyne | ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-documentation?label=release)
-|Integration and application repositories (below)||
+|<br/><br/>*Integration and application repositories*||
 | [`lyne-getting-started`](https://github.com/lyne-design-system/lyne-getting-started) | 🕹️ Integration examples for Lyne Components within React, Angular, Vue, Svelte and Plain JavaScript |(no versions)
 |[`lyne-hydration-playground`](https://github.com/lyne-design-system/lyne-hydration-playground) |Repo to play around with hydration of Lyne Components|(no versions)
 |[`lyne-components-demo`](https://github.com/lyne-design-system/lyne-components-demo) |Showcase of how Lyne components could be used to create a fully fledged website|![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-components-demo?label=release)
-|Helper and behind the curtain repositories (below)||
+|<br/><br/>*Helper and behind the curtain repositories*||
 |[`lyne-figma-listener`](https://github.com/lyne-design-system/lyne-figma-listener) |Server listening to webhooks from Figma|![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-figma-listener?label=release)
 |[`lyne-helper-figma-api`](https://github.com/lyne-design-system/lyne-helper-figma-api) |Helpers to simplify requests against the Figma API|![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-helper-figma-api?label=release)
 |[`lyne-helper-eslint-config`](https://github.com/lyne-design-system/lyne-helper-eslint-config) |ESLint Configuration for all Lyne Repos|![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/lyne-design-system/lyne-helper-eslint-config?label=release)
