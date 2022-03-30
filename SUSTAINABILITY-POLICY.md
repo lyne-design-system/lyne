@@ -93,5 +93,5 @@ of our sustainability policy.
 
 ## Complementary
 The Lyne Design System is an open source project initiated by the Swiss Federal Railways (SBB). Please find out more 
-about the overall [sustainability strategy](https://company.sbb.ch/en/the-company/responsibility-society-environment/sustainability-strategy.html) 
+about the overall [sustainability strategy](https://company.sbb.ch/en/the-company/responsibility-society-environment/sustainability/commitment-sustainability.html) 
 and the [core values](https://company.sbb.ch/de/ueber-die-sbb/profil/sbb-markenportal.html) (german link) of SBB.
