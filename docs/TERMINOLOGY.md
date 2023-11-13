@@ -58,6 +58,9 @@ Check the [Design (Token) API knowledge section](/docs/knowhow/design-token-api/
 ### GitHub
 *GitHub* is world's leading software development platform. A code hosting platform for collaboration and version control. *GitHub* lets you (and others) work together on projects like the [Lyne](#lyne) Design System.
 
+### Lit
+*[Lit](https://lit.dev/)* is a simple library for building fast, lightweight and standard-compliant [Web Components](#web-components) — our [Lyne Components](#lyne-components) — which then power the [Lyne Design System](#lyne).
+
 ### Lyne
 *Lyne* is the product name of our [Design System](#design-system) — *Lyne Design System*.
 
